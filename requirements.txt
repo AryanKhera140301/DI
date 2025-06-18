@@ -1,0 +1,10 @@
+voila
+os
+requests
+pandas
+re
+time
+tkinter
+openpyxl
+openpyxl.styles
+tqdm
