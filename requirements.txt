@@ -3,7 +3,6 @@ requests
 pandas
 openpyxl
 tqdm
-os
 re
 time
 tkinter
